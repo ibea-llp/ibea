@@ -1,0 +1,2 @@
+F:\C++\String_text\Debug\String_text.exe
+F:\C++\String_text\Debug\String_text.pdb
